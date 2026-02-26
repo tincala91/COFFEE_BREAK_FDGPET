@@ -1,5 +1,5 @@
 
-%COFFE_BREAK_FDGPET SCRIPT TO DERIVE SINGLE SUBJECT FDG_PET RESULTS IN THE CLINICS
+%COFFEE_BREAK_FDGPET SCRIPT TO DERIVE SINGLE SUBJECT FDG_PET RESULTS IN THE CLINICS
 
 %Authors: Arianna Sala (ULIEGE, CHULiege), Andreas Schindele (Universitätsklinikum Augsburg) 
 
@@ -174,4 +174,5 @@ rmpath(fullfile(baseDir, 'OTHER_FUNCTIONS', 'export_fig-master'));
 clear JOB_DIR;
 clear TEMPLATE_DIR;
 clear xSPM
+
 
